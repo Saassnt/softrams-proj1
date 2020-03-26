@@ -2,8 +2,8 @@
 
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIAIAMK4MAKOPQZDQPQ"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 provider "github" {
