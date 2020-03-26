@@ -97,7 +97,7 @@ variable "aws_region" {
 # OAuth Github Token PUT YOUR OWN OAUTH TOKEN here 
 variable "github_token" {
   description = " Github OAuth Token"
-  default = "71071c354ee62faf8e646d7b4b1f68edc9e49e2f"
+  default = ""
 }
 
 variable "webhook_secret" {
